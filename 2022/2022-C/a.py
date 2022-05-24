@@ -1,11 +1,14 @@
 import numpy as np
 import queue
 
+#these are all the possible characters that we want to test for each case
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 digs = "1234567890"
 spec = "#@*&"
 
+
+#simple function that checks each
 def has_no_common_char(s1, s2):
     for ch1 in s1:
         for ch2 in s2:

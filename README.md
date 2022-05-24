@@ -11,28 +11,49 @@
 ## Techniques ##
 
  - String manipulation
+
 Problem 2022-C-P1
+
  - Graph theory
+
  - Greatest common divisor
+
 Problem 2022-C-P2
  - Modular arithmetic
+
 Problem 2022-C-P2
 Problem 2022-C-P4
+
  - Algebraic manipulation
+
 Problem 2022-C-P2
+
  - Greedy algorithm
+
 Problem 2022-C-P2
+
  - Sorting algorithms
+
 Problem 2022-C-P3
+
  - Palindromic words
+
 Problem 2022-C-P4
+
  - Inverse module
+
 Problem 2022-C-P4
+
  - Pascal triangle
+
 Problem 2022-C-P4
+
  - Dynamic programming
+
 Problem 2022-C-P4
+
  - Random processes
+
 Problem 2022-C-P4
 
 

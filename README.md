@@ -59,7 +59,7 @@ Problem 2022-C-P4
 
 
 
-##2022 Round C ##
+## 2022 Round C ##
 
 When: 22nd May
 Where: SF California

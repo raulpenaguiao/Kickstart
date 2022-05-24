@@ -11,8 +11,32 @@
 ## Techniques ##
 
  - String manipulation
- - Dynamic programming
+Problem 2022-C-P1
  - Graph theory
+ - Greatest common divisor
+Problem 2022-C-P2
+ - Modular arithmetic
+Problem 2022-C-P2
+Problem 2022-C-P4
+ - Algebraic manipulation
+Problem 2022-C-P2
+ - Greedy algorithm
+Problem 2022-C-P2
+ - Sorting algorithms
+Problem 2022-C-P3
+ - Palindromic words
+Problem 2022-C-P4
+ - Inverse module
+Problem 2022-C-P4
+ - Pascal triangle
+Problem 2022-C-P4
+ - Dynamic programming
+Problem 2022-C-P4
+ - Random processes
+Problem 2022-C-P4
+
+
+
 
 ##2022 Round C ##
 
@@ -121,8 +145,12 @@ This algorithm runs over all subsets of size N, so it is too big for the large s
 This was not overcome before the end of the competition.
 
 
-# Problem 4 ARS - 
-After revealing solution, it became clear that dynammic programing can be used
+# Problem 4 ARS #
+ 
+After revealing solution, it became clear that dynammic programing can be used to count ** how many palindromes exist of a fixed length k in a substring **
+There are quadratically many substrings, so computing this number for each substring is $ O(N^3) $
+
+However, it still is not accepted under the time limit.
 
 
 
